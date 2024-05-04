@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MakkusuOtaku/minegpt.git"
+    "url": "git+https://github.com/SonicandTailsCD/minegpt.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MakkusuOtaku/minegpt/issues"
+    "url": "https://github.com/SonicandTailsCD/minegpt/issues"
   },
-  "homepage": "https://github.com/MakkusuOtaku/minegpt#readme",
+  "homepage": "https://github.com/SonicandTailsCD/minegpt#readme",
   "dependencies": {
     "mineflayer": "^4.8.1"
   }
